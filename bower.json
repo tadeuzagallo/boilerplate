@@ -1,0 +1,11 @@
+{
+  "name": "editor",
+  "authors": [
+    "Tadeu Zagallo <tadeuzagallo@gmail.com"
+  ],
+  "dependencies": {
+    "react": "~0.11.1",
+    "requirejs": "~2.1.14",
+    "platform": "Polymer/platform#~0.3.5"
+  }
+}
